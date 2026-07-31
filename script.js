@@ -139,7 +139,7 @@
                 position: relative;
                 width: 100%;
                 max-width: 370px;
-                background: linear-gradient(135deg, rgba(14, 38, 28, 0.96) 0%, rgba(6, 20, 15, 0.98) 100%);
+                background: linear-gradient(135deg, rgb(0 0 0 / 96%) 0%, rgb(85 85 85 / 98%) 100%);
                 border-radius: 20px;
                 border: 1px solid rgba(193, 154, 73, 0.35); 
                 animation: pgxFinal3DEntrance 0.5s cubic-bezier(0.25, 1, 0.2, 1.1) forwards;
@@ -388,7 +388,7 @@
                 border-radius: 14px;
                 text-align: left;
                 line-height: 1.55;
-                background: linear-gradient(165deg, rgba(14, 38, 28, 0.95) 0%, rgba(6, 20, 15, 0.98) 100%);
+                background: transparent;
                 border: 1px solid rgba(193, 154, 73, 0.22);
                 border-left: 3px solid #c19a49;
                 box-shadow:
