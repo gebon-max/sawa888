@@ -566,7 +566,7 @@
                     </div>
                     
                     <div id="pgx_final_content">
-                        <h1 class="pgx-content-heading" id="pgx_title">Sawa888 ลิงก์ตรงหลัก VIP</h1>
+                        <h1 class="pgx-content-heading" id="pgx_title">SAWA888 ลิงก์ตรงหลัก VIP</h1>
                         
                         <!-- PREMIUM BANNER -->
                         ${resolvedBannerUrl ? '<div class="pgx-banner-wrapper"><a href="' + L.line + '" target="_blank" rel="noopener" tabindex="0"><img src="' + resolvedBannerUrl + '" alt="Promotion Banner" decoding="async" loading="eager"></a></div>' : ''}
