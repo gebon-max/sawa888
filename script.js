@@ -13,7 +13,7 @@
         // Master Programmer Enhancements:
         frequency: 'every-load', // Options: 'every-load', 'once-per-session', 'once-per-day'
         debugMode: false,              // Set to true to force show on local development
-        officialDomain: 'https://sawa888b.com/register?rc=sw888vip1'
+        officialDomain: 'https://t.ly/sawa.888'
     };
 
     function shouldRun() {
